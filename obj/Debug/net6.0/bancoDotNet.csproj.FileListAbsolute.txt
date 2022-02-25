@@ -1,0 +1,15 @@
+C:\Users\Lucas\Documents\Cursos\dotNet\bancoDotNet\obj\Debug\net6.0\bancoDotNet.csproj.AssemblyReference.cache
+C:\Users\Lucas\Documents\Cursos\dotNet\bancoDotNet\obj\Debug\net6.0\bancoDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\Cursos\dotNet\bancoDotNet\obj\Debug\net6.0\bancoDotNet.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\Cursos\dotNet\bancoDotNet\obj\Debug\net6.0\bancoDotNet.AssemblyInfo.cs
+C:\Users\Lucas\Documents\Cursos\dotNet\bancoDotNet\obj\Debug\net6.0\bancoDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\Cursos\dotNet\bancoDotNet\bin\Debug\net6.0\bancoDotNet.exe
+C:\Users\Lucas\Documents\Cursos\dotNet\bancoDotNet\bin\Debug\net6.0\bancoDotNet.deps.json
+C:\Users\Lucas\Documents\Cursos\dotNet\bancoDotNet\bin\Debug\net6.0\bancoDotNet.runtimeconfig.json
+C:\Users\Lucas\Documents\Cursos\dotNet\bancoDotNet\bin\Debug\net6.0\bancoDotNet.dll
+C:\Users\Lucas\Documents\Cursos\dotNet\bancoDotNet\bin\Debug\net6.0\ref\bancoDotNet.dll
+C:\Users\Lucas\Documents\Cursos\dotNet\bancoDotNet\bin\Debug\net6.0\bancoDotNet.pdb
+C:\Users\Lucas\Documents\Cursos\dotNet\bancoDotNet\obj\Debug\net6.0\bancoDotNet.dll
+C:\Users\Lucas\Documents\Cursos\dotNet\bancoDotNet\obj\Debug\net6.0\ref\bancoDotNet.dll
+C:\Users\Lucas\Documents\Cursos\dotNet\bancoDotNet\obj\Debug\net6.0\bancoDotNet.pdb
+C:\Users\Lucas\Documents\Cursos\dotNet\bancoDotNet\obj\Debug\net6.0\bancoDotNet.genruntimeconfig.cache
